@@ -1,16 +1,21 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F66B92&width=300&lines=Welcome+to+my+Github!;I'm+a+Backend+Developer!;Building+AI-Powered+APIs!)](https://git.io/typing-svg)
 
-<!--
-**GlauberCores/GlauberCores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Capa README](file:///C:/Users/choco/Desktop/ALICE/banner.svg)
 
-Here are some ideas to get you started:
+#### ☕ Desenvolvedor Backend | Java & Python 🤖 Especialista em APIs REST & Inteligência Artificial 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,docker,postgres,mongodb,redis,aws,kubernetes,git,github,githubactions,postman,tensorflow)](https://skillicons.dev)
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117)
+
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117)
