@@ -21,4 +21,4 @@
 
 ![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=GlauberCores&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117)
 
-![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GlauberCores&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GlauberCores&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117) 
